@@ -65,7 +65,6 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycairo==1.16.2
 pycparser==2.21
-libcups2-dev
 Pygments==2.3.1
 PyJWT==1.7.1
 pymacaroons==0.13.0
