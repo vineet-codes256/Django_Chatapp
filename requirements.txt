@@ -14,7 +14,7 @@ cffi==1.15.0
 channels==3.0.4
 channels-redis==3.4.0
 chardet==3.0.4
-Click==7.0
+Click
 collection==0.1.6
 colorama==0.4.3
 constantly==15.1.0
