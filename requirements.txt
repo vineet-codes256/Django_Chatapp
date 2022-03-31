@@ -23,7 +23,6 @@ daphne==3.0.2
 dbus-python==1.2.16
 distlib==0.3.0
 distro==1.4.0
-distro-info===0.23ubuntu1
 Django==4.0.3
 django-storages==1.12.3
 djangorestframework==3.13.1
