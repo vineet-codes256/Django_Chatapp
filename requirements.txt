@@ -91,8 +91,6 @@ sqlparse==0.4.2
 systemd-python==234
 Twisted==22.2.0
 txaio==22.2.1
-ufw==0.36
-unattended-upgrades==0.1
 urllib3==1.25.8
 vboxapi==1.0
 virtualenv==20.0.17
