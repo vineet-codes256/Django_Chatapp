@@ -9,7 +9,6 @@ Automat==20.2.0
 Babel==2.6.0
 backports.zoneinfo==0.2.1
 blinker==1.4
-Brlapi==0.7.0
 certifi==2019.11.28
 cffi==1.15.0
 channels==3.0.4
